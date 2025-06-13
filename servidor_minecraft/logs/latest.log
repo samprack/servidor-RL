@@ -3459,3 +3459,16 @@ Caused by: java.lang.NullPointerException
 [19:19:30] [Server thread/INFO] [antiqueatlas]: Sent markers data #-1 to player kaneki46531
 [19:19:30] [Server thread/INFO] [XAT]: Syncing Config to kaneki46531
 [19:19:30] [Thread-25/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Online familiars loaded successfully for 10d5933b-703a-3313-a00a-d18f57f1651b.
+[19:26:12] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: kaneki46531 lost connection: Disconnected
+[19:26:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: kaneki46531 left the game
+[19:26:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Stopping the server
+[19:26:43] [Server thread/INFO] [AUW]: Stopping DS...
+[19:26:43] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[19:26:43] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[19:26:43] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[19:26:43] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/overworld
+[19:26:43] [Server thread/INFO] [globalgamerules]: Saving gamerules of dimension 0 (world) to config
+[19:26:43] [Server thread/INFO] [FML]: Unloading dimension 0
+[19:26:43] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[19:26:43] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[19:26:43] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
