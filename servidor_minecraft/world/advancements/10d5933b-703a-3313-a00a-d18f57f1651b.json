@@ -233,6 +233,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/torch": {
+    "criteria": {
+      "has_stone_pickaxe": "2025-06-13 20:42:27 +0000"
+    },
+    "done": true
+  },
   "defiledlands:recipes/armor/scale_chestplate": {
     "criteria": {
       "has_the_recipe": "2025-06-13 19:19:30 +0000"
@@ -623,6 +629,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-06-13 21:03:34 +0000"
+    },
+    "done": true
+  },
   "defiledlands:recipes/decoration/tenebra_stairs_uncraft": {
     "criteria": {
       "has_the_recipe": "2025-06-13 19:19:30 +0000"
@@ -671,6 +683,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2025-06-13 20:13:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_bed": {
     "criteria": {
       "has_the_recipe": "2025-06-13 19:19:30 +0000"
@@ -706,6 +724,12 @@
       "has_the_recipe": "2025-06-13 19:19:30 +0000"
     },
     "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "creeper": "2025-06-13 21:02:30 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/misc/ender_eye": {
     "criteria": {
@@ -890,6 +914,12 @@
   "minecraft:recipes/combat/golden_chestplate": {
     "criteria": {
       "has_the_recipe": "2025-06-13 19:19:30 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:katana": {
+    "criteria": {
+      "craft": "2025-06-13 20:34:19 +0000"
     },
     "done": true
   },
@@ -1265,6 +1295,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "creeper": "2025-06-13 21:02:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_pickaxe": {
     "criteria": {
       "has_the_recipe": "2025-06-13 19:19:30 +0000"
@@ -1303,7 +1339,9 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "forest": "2025-06-13 20:09:48 +0000",
       "plains": "2025-06-13 19:19:30 +0000",
+      "taiga": "2025-06-13 20:37:19 +0000",
       "river": "2025-06-13 19:21:34 +0000"
     },
     "done": false
@@ -1455,6 +1493,12 @@
   "minecraft:recipes/building_blocks/brown_stained_hardened_clay": {
     "criteria": {
       "has_the_recipe": "2025-06-13 19:19:30 +0000"
+    },
+    "done": true
+  },
+  "reskillable:main/root": {
+    "criteria": {
+      "level_up": "2025-06-13 20:59:23 +0000"
     },
     "done": true
   },
@@ -1944,6 +1988,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "porkchop": "2025-06-13 20:38:36 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/misc/bucket": {
     "criteria": {
       "has_the_recipe": "2025-06-13 19:19:30 +0000"
@@ -2124,6 +2174,12 @@
     },
     "done": true
   },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-06-13 20:25:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/minecart": {
     "criteria": {
       "has_the_recipe": "2025-06-13 19:19:30 +0000"
@@ -2193,6 +2249,12 @@
   "minecraft:recipes/building_blocks/stone_brick_slab": {
     "criteria": {
       "has_the_recipe": "2025-06-13 19:19:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-06-13 20:38:36 +0000"
     },
     "done": true
   },
@@ -2469,6 +2531,12 @@
   "minecraft:recipes/building_blocks/magenta_stained_glass": {
     "criteria": {
       "has_the_recipe": "2025-06-13 19:19:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-06-13 20:42:27 +0000"
     },
     "done": true
   },
@@ -2826,6 +2894,12 @@
     },
     "done": true
   },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-06-13 20:22:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/slime_ball": {
     "criteria": {
       "has_the_recipe": "2025-06-13 19:19:30 +0000"
@@ -2841,6 +2915,12 @@
   "minecraft:recipes/misc/coal": {
     "criteria": {
       "has_the_recipe": "2025-06-13 19:19:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-06-13 20:49:10 +0000"
     },
     "done": true
   },
@@ -2931,6 +3011,12 @@
   "minecraft:recipes/building_blocks/polished_andesite": {
     "criteria": {
       "has_the_recipe": "2025-06-13 19:19:30 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:boomerang": {
+    "criteria": {
+      "craft": "2025-06-13 20:39:35 +0000"
     },
     "done": true
   },
