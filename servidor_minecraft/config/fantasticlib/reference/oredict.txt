@@ -163,10 +163,10 @@ launcherWeb
 listAllfishraw
 listAllfishcooked
 cropSeaweed
+tallow
 buttonWood
 gemEnderBiotite
 materialStoneTool
-tallow
 mushroomAny
 blockSlimeGreen
 blockSlimeBlue
@@ -287,7 +287,6 @@ oreSilver
 blockSilver
 oreSapphire
 blockSapphire
-shardGlass
 stonePolished
 plankStained
 trapdoorWood
@@ -301,6 +300,7 @@ bookshelfDarkOak
 blockCandle
 pressurePlateWood
 blockCharcoal
+shardGlass
 stoneBasaltPolished
 stoneMarblePolished
 stoneLimestonePolished
