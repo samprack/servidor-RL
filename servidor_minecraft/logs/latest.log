@@ -3050,3 +3050,10 @@ Caused by: java.lang.NullPointerException
 [22:38:04] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668)
 [22:38:04] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526)
 [22:38:04] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at java.lang.Thread.run(Thread.java:750)
+[22:41:09] [Server thread/INFO] [Scaling Health]: Blight Assimilated Human has died
+[22:41:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [kaneki46531: Set own game mode to Creative Mode]
+[22:41:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [kaneki46531: Set own game mode to Creative Mode]
+[22:41:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [kaneki46531: Set own game mode to Survival Mode]
+[22:41:57] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[22:42:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [kaneki46531: Set own game mode to Creative Mode]
+[22:44:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [kaneki46531: Set own game mode to Survival Mode]
