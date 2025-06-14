@@ -3112,3 +3112,19 @@ Caused by: java.lang.NullPointerException
 [23:18:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [kaneki46531: Set own game mode to Spectator Mode]
 [23:38:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [kaneki46531: Set own game mode to Survival Mode]
 [23:38:44] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[23:41:35] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[23:42:35] [Server thread/INFO] [Meson ASM]: Transforming ContainerRepair
+[23:42:35] [Server thread/INFO] [Meson ASM]: Applying Transformation to method (Names [updateRepairOutput, func_82848_d, e] Descriptor ()V / ()V)
+[23:42:35] [Server thread/INFO] [Meson ASM]: Located method, patching...
+[23:42:35] [Server thread/INFO] [Meson ASM]: Located target ICONST_0
+[23:42:35] [Server thread/INFO] [Meson ASM]: Patch result: true
+[23:42:35] [Server thread/INFO] [Meson ASM]: Transforming ContainerRepair2
+[23:42:35] [Server thread/INFO] [Meson ASM]: Applying Transformation to method (Names [canTakeStack, func_82869_a, a] Descriptor (Lnet/minecraft/entity/player/EntityPlayer;)Z / (Laed;)Z)
+[23:42:35] [Server thread/INFO] [Meson ASM]: Located method, patching...
+[23:42:35] [Server thread/INFO] [Meson ASM]: Located target IFLE L0
+[23:42:35] [Server thread/INFO] [Meson ASM]: Patch result: true
+[23:44:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [kaneki46531: Set own game mode to Creative Mode]
+[23:44:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [kaneki46531: Set own game mode to Survival Mode]
+[23:45:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [kaneki46531: Set own game mode to Creative Mode]
+[23:46:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [kaneki46531: Set own game mode to Survival Mode]
+[23:46:27] [Server thread/WARN] [net.minecraft.world.storage.loot.LootTable]: Tried to over-fill a container
