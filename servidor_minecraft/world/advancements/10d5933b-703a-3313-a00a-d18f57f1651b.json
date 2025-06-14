@@ -545,6 +545,12 @@
     },
     "done": true
   },
+  "spartanweaponry:root": {
+    "criteria": {
+      "handle_in_inventory": "2025-06-14 00:32:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/magenta_dye_from_purple_and_pink": {
     "criteria": {
       "has_the_recipe": "2025-06-13 19:19:30 +0000"
@@ -566,6 +572,12 @@
   "sereneseasons:recipes/tools/season_clock": {
     "criteria": {
       "has_the_recipe": "2025-06-13 19:19:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_boots": "2025-06-14 00:07:19 +0000"
     },
     "done": true
   },
@@ -727,6 +739,10 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "skeleton": "2025-06-14 00:25:04 +0000",
+      "cave_spider": "2025-06-14 01:04:24 +0000",
+      "zombie": "2025-06-13 23:55:31 +0000",
+      "spider": "2025-06-14 01:00:16 +0000",
       "creeper": "2025-06-13 21:02:30 +0000"
     },
     "done": false
@@ -1205,6 +1221,12 @@
     },
     "done": true
   },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-06-14 01:22:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/orange_banner": {
     "criteria": {
       "has_the_recipe": "2025-06-13 19:19:30 +0000"
@@ -1342,6 +1364,7 @@
       "forest": "2025-06-13 20:09:48 +0000",
       "plains": "2025-06-13 19:19:30 +0000",
       "taiga": "2025-06-13 20:37:19 +0000",
+      "extreme_hills": "2025-06-14 00:26:02 +0000",
       "river": "2025-06-13 19:21:34 +0000"
     },
     "done": false
@@ -1990,7 +2013,9 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "porkchop": "2025-06-13 20:38:36 +0000"
+      "porkchop": "2025-06-13 20:38:36 +0000",
+      "rotten_flesh": "2025-06-13 23:55:40 +0000",
+      "cooked_chicken": "2025-06-14 00:37:25 +0000"
     },
     "done": false
   },
@@ -2531,6 +2556,12 @@
   "minecraft:recipes/building_blocks/magenta_stained_glass": {
     "criteria": {
       "has_the_recipe": "2025-06-13 19:19:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-06-14 01:18:59 +0000"
     },
     "done": true
   },
@@ -3299,6 +3330,12 @@
   "defiledlands:recipes/baubles/phytoprostasia_amulet": {
     "criteria": {
       "has_the_recipe": "2025-06-13 19:19:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-06-14 00:19:16 +0000"
     },
     "done": true
   },
