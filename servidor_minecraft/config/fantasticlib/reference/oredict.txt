@@ -163,14 +163,11 @@ launcherWeb
 listAllfishraw
 listAllfishcooked
 cropSeaweed
+tallow
+mushroomAny
 buttonWood
 gemEnderBiotite
-tallow
 materialStoneTool
-mushroomAny
-blockSlimeGreen
-blockSlimeBlue
-blockSlimeRed
 stoneBasalt
 stoneMarble
 stoneLimestone
@@ -180,6 +177,9 @@ gemBiotite
 stoneBrimstone
 stonePermafrost
 blockPrismarineElder
+blockSlimeGreen
+blockSlimeBlue
+blockSlimeRed
 ingotSilver
 nuggetSilver
 gemSapphire
@@ -287,8 +287,6 @@ oreSilver
 blockSilver
 oreSapphire
 blockSapphire
-stonePolished
-plankStained
 trapdoorWood
 bookshelf
 bookshelfOak
@@ -300,7 +298,6 @@ bookshelfDarkOak
 blockCandle
 pressurePlateWood
 blockCharcoal
-shardGlass
 stoneBasaltPolished
 stoneMarblePolished
 stoneLimestonePolished
@@ -310,6 +307,9 @@ stoneBrimstonePolished
 stonePermafrostPolished
 blockPrismarineElderBrick
 blockPrismarineElderDark
+stonePolished
+plankStained
+shardGlass
 blockSlimeCyan
 blockSlimeMagenta
 blockSlimeYellow
