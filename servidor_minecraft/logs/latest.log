@@ -3014,3 +3014,39 @@ Caused by: java.lang.NullPointerException
 [22:25:03] [Server thread/INFO] [RLTweakerASM]: Patch exists for pw.prok.realbench.WorkbenchInventory
 [22:25:03] [Server thread/INFO] [RLTweakerASM]: Writing class pw.prok.realbench.WorkbenchInventory with flags MAXS | FRAMES
 [22:25:03] [Server thread/INFO] [RLTweaker]: HookRealBench reflected successfully!
+[22:29:10] [Server thread/INFO] [Meson ASM]: Transforming ItemHandlerHelper
+[22:29:10] [Server thread/INFO] [Meson ASM]: Applying Transformation to method (Names [insertItem, insertItem, ] Descriptor (Lnet/minecraftforge/items/IItemHandler;Lnet/minecraft/item/ItemStack;Z)Lnet/minecraft/item/ItemStack; / (Lnet/minecraftforge/items/IItemHandler;Laip;Z)Laip;)
+[22:29:10] [Server thread/INFO] [Meson ASM]: Located method, patching...
+[22:29:10] [Server thread/INFO] [Meson ASM]: Located target ALOAD 0
+[22:29:10] [Server thread/INFO] [Meson ASM]: Patch result: true
+[22:29:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: kaneki46531 was slain by Rupter
+[22:29:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Opped kaneki46531
+[22:30:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [kaneki46531: Set own game mode to Creative Mode]
+[22:31:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [kaneki46531: Set own game mode to Survival Mode]
+[22:33:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [kaneki46531: Set own game mode to Creative Mode]
+[22:33:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [kaneki46531: Set own game mode to Survival Mode]
+[22:36:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [kaneki46531: Set own game mode to Creative Mode]
+[22:36:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [kaneki46531: Set own game mode to Survival Mode]
+[22:37:45] [Server thread/INFO] [bettercaves]: Better Caves config file for dimension 0 not found. Using global config...
+[22:37:45] [Server thread/INFO] [bettercaves]: Using block 'minecraft:lava' as lava in cave generation for dimension 0 (OVERWORLD) ...
+[22:37:45] [Server thread/INFO] [bettercaves]: Using block 'minecraft:water' as water in cave generation for dimension 0 (OVERWORLD) ...
+[22:37:45] [Server thread/INFO] [bettercaves]: Better Caves config file for dimension 0 not found. Using global config...
+[22:37:45] [Server thread/INFO] [bettercaves]: Using block 'minecraft:lava' as lava in cave generation for dimension 0 (OVERWORLD) ...
+[22:37:45] [Server thread/INFO] [bettercaves]: Using block 'minecraft:water' as water in cave generation for dimension 0 (OVERWORLD) ...
+[22:37:46] [Server thread/INFO] [yungslaw]: YUNG's Law config file for dimension 0 not found. Using global config...
+[22:38:04] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:101]: Warning: Tried to create a EntityFallingTree with no branch blocks. This shouldn't be possible.
+[22:38:04] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: java.lang.Exception
+[22:38:04] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at com.ferreusveritas.dynamictrees.entities.EntityFallingTree.setData(EntityFallingTree.java:102)
+[22:38:04] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at com.ferreusveritas.dynamictrees.entities.EntityFallingTree.dropTree(EntityFallingTree.java:483)
+[22:38:04] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at com.ferreusveritas.dynamictrees.blocks.BlockBranch.futureBreak(BlockBranch.java:432)
+[22:38:04] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at com.ferreusveritas.dynamictrees.event.FutureBreak.process(FutureBreak.java:47)
+[22:38:04] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at com.ferreusveritas.dynamictrees.event.CommonEventHandler.onWorldTick(CommonEventHandler.java:21)
+[22:38:04] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_993_CommonEventHandler_onWorldTick_WorldTickEvent.invoke(.dynamic)
+[22:38:04] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90)
+[22:38:04] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182)
+[22:38:04] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraftforge.fml.common.FMLCommonHandler.onPreWorldTick(FMLCommonHandler.java:287)
+[22:38:04] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:752)
+[22:38:04] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:397)
+[22:38:04] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668)
+[22:38:04] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526)
+[22:38:04] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at java.lang.Thread.run(Thread.java:750)
