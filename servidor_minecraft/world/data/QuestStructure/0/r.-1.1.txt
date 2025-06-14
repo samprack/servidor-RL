@@ -43,3 +43,8 @@ BirchTree1,-713,-708,526,532
 QuakingAspen,-713,-707,542,548
 GenericTree1,-701,-695,535,541
 GenericTree,-713,-708,536,542
+StonePlantMound1,-519,-513,619,625
+FirTree,-546,-539,692,698
+BirchTree1,-522,-517,699,705
+StonePlantMound1,-536,-530,699,705
+BirchTree1,-551,-546,702,708

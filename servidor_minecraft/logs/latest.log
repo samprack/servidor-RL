@@ -3057,3 +3057,56 @@ Caused by: java.lang.NullPointerException
 [22:41:57] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
 [22:42:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [kaneki46531: Set own game mode to Creative Mode]
 [22:44:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [kaneki46531: Set own game mode to Survival Mode]
+[22:49:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: kaneki46531 was slain by Rupter
+[22:49:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [kaneki46531: Set own game mode to Creative Mode]
+[22:51:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [kaneki46531: Set own game mode to Survival Mode]
+[22:55:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: kaneki46531 has made the advancement [Take Aim, Chaps!]
+[23:04:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: kaneki46531 has made the advancement [Take Aim]
+[23:04:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: kaneki46531 was slain by Rupter
+[23:05:00] [Thread-89/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Online familiars loaded successfully for 10d5933b-703a-3313-a00a-d18f57f1651b.
+[23:05:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [kaneki46531: Set own game mode to Creative Mode]
+[23:05:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [kaneki46531: Set own game mode to Survival Mode]
+[23:06:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: kaneki46531 was slain by Rupter
+[23:06:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [kaneki46531: Set own game mode to Survival Mode]
+[23:06:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [kaneki46531: Set own game mode to Creative Mode]
+[23:09:10] [Server thread/WARN] [FML]: Dynamic Trees loaded a new chunk [-17, 40] in dimension 0 (overworld) while populating chunk [-19, 40], causing cascading worldgen lag.
+[23:09:10] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:09:10] [Server thread/WARN] [FML]: Dynamic Trees loaded a new chunk [-18, 40] in dimension 0 (overworld) while populating chunk [-19, 40], causing cascading worldgen lag.
+[23:09:10] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:09:12] [Server thread/WARN] [FML]: Lycanites Mobs loaded a new chunk [-33, 38] in dimension 0 (overworld) while populating chunk [-33, 39], causing cascading worldgen lag.
+[23:09:12] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:09:12] [Server thread/WARN] [FML]: Lycanites Mobs loaded a new chunk [-33, 37] in dimension 0 (overworld) while populating chunk [-33, 38], causing cascading worldgen lag.
+[23:09:12] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:09:12] [Server thread/WARN] [FML]: Quark loaded a new chunk [-34, 37] in dimension 0 (overworld) while populating chunk [-33, 38], causing cascading worldgen lag.
+[23:09:12] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:09:12] [Server thread/WARN] [FML]: Quark loaded a new chunk [-35, 37] in dimension 0 (overworld) while populating chunk [-33, 38], causing cascading worldgen lag.
+[23:09:12] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:09:14] [Server thread/WARN] [FML]: Lycanites Mobs loaded a new chunk [-37, 40] in dimension 0 (overworld) while populating chunk [-36, 40], causing cascading worldgen lag.
+[23:09:14] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:09:16] [Server thread/INFO] [AIReducer]: Caching Wrapped Task Constructor: com.charles445.aireducer.ai.myrmexold.WrappedTaskOldMyrmexAIForage
+[23:09:16] [Server thread/INFO] [AIReducer]: Caching Wrapped Task Constructor: com.charles445.aireducer.ai.myrmexold.WrappedTaskOldMyrmexAILeaveHive
+[23:09:16] [Server thread/INFO] [AIReducer]: Caching Wrapped Task Constructor: com.charles445.aireducer.ai.myrmexold.WrappedTaskOldMyrmexAIMoveThroughHive
+[23:09:16] [Server thread/INFO] [AIReducer]: Caching Wrapped Task Constructor: com.charles445.aireducer.ai.myrmexold.WrappedTaskOldMyrmexAIReEnterHive
+[23:09:16] [Server thread/INFO] [AIReducer]: Caching Wrapped Task Constructor: com.charles445.aireducer.ai.myrmexold.WrappedProximityTaskOldMyrmex
+[23:09:16] [Server thread/INFO] [AIReducer]: Caching Wrapped Task Constructor: com.charles445.aireducer.ai.myrmexold.WrappedTaskOldMyrmexAIFindHidingSpot
+[23:09:16] [Server thread/INFO] [AIReducer]: Caching Wrapped Task Constructor: com.charles445.aireducer.ai.myrmexold.WrappedTaskOldMyrmexAIEscortEntity
+[23:09:17] [Server thread/WARN] [FML]: Quark loaded a new chunk [-26, 43] in dimension 0 (overworld) while populating chunk [-27, 43], causing cascading worldgen lag.
+[23:09:17] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:09:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [kaneki46531: Set own game mode to Survival Mode]
+[23:12:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [kaneki46531: Set own game mode to Creative Mode]
+[23:12:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [kaneki46531: Set own game mode to Survival Mode]
+[23:15:05] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[23:15:18] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[23:15:40] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[23:16:36] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[23:16:46] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[23:16:51] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[23:16:55] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[23:17:09] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[23:17:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [kaneki46531: Set own game mode to Spectator Mode]
+[23:17:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [kaneki46531: Set own game mode to Survival Mode]
+[23:17:40] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[23:17:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [kaneki46531: Set own game mode to Spectator Mode]
+[23:18:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [kaneki46531: Set own game mode to Creative Mode]
+[23:18:07] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[23:18:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [kaneki46531: Set own game mode to Spectator Mode]

@@ -742,6 +742,7 @@
       "skeleton": "2025-06-14 00:25:04 +0000",
       "cave_spider": "2025-06-14 01:04:24 +0000",
       "zombie": "2025-06-13 23:55:31 +0000",
+      "witch": "2025-06-14 23:11:40 +0000",
       "spider": "2025-06-14 01:00:16 +0000",
       "creeper": "2025-06-13 21:02:30 +0000"
     },
@@ -2745,6 +2746,12 @@
     },
     "done": true
   },
+  "spartanweaponry:longbow": {
+    "criteria": {
+      "craft": "2025-06-14 22:55:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/acacia_fence_gate": {
     "criteria": {
       "has_the_recipe": "2025-06-13 19:19:30 +0000"
@@ -3114,6 +3121,12 @@
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "has_the_recipe": "2025-06-13 19:19:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-06-14 23:04:47 +0000"
     },
     "done": true
   },

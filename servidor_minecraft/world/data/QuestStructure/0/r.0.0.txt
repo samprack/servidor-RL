@@ -716,3 +716,12 @@ BirchTree1,-45,-40,47,53
 QuakingAspen,-46,-40,52,58
 QuakingAspen,-50,-44,44,50
 BirchTree1,-57,-52,47,53
+BirchTree1,-88,-82,468,473
+BirchTree1,-91,-86,456,462
+GenericTree3,-81,-75,437,442
+BirchTreeBig,-79,-71,481,489
+GenericTree6,-83,-77,499,505
+GenericTree,-77,-72,497,503
+QuakingAspen,-83,-77,494,500
+GenericTree1,-82,-76,504,510
+GenericTree3,-78,-73,505,511

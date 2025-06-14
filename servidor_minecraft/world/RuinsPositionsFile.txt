@@ -13,6 +13,7 @@
 -623 68 497 -618 71 504 Melonfield.tml
 -602 68 -13 -592 73 -3 RuinedSmallFountainDiagonal.tml
 -581 66 581 -571 71 591 RuinedSmallFountainDiagonal.tml
+-555 75 683 -551 81 686 StonePillar.tml
 -543 62 436 -536 66 443 TinyFarmField.tml
 -501 69 599 -488 101 612 OreSpire.tml
 -501 72 72 -497 74 76 EmeraldOreOutcrop.tml
@@ -24,6 +25,7 @@
 -432 69 437 -417 77 446 Archway.tml
 -412 62 628 -400 71 638 StoneHouseMruined.tml
 -335 86 13 -330 89 20 PumpkinField.tml
+-297 69 644 -281 82 656 Barn-intact.tml
 -234 62 530 -226 70 541 MinersHut.tml
 -194 77 433 -187 86 440 Outcrop.tml
 -148 69 545 -143 75 550 CaveSpiderBurrow.tml
