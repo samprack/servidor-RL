@@ -3110,3 +3110,5 @@ Caused by: java.lang.NullPointerException
 [23:18:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [kaneki46531: Set own game mode to Creative Mode]
 [23:18:07] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
 [23:18:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [kaneki46531: Set own game mode to Spectator Mode]
+[23:38:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [kaneki46531: Set own game mode to Survival Mode]
+[23:38:44] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
