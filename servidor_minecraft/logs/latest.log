@@ -75,3 +75,14 @@
 [00:08:07] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
 [00:08:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: kaneki46531 has made the advancement [Attack!]
 [00:17:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: kaneki46531 has made the advancement [The Bender of the 15th Century]
+[00:20:17] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@356908da)
+[00:20:17] [Server thread/INFO] [globalgamerules]: Applying config gamerules to dimension -1 (world)
+[00:20:17] [Server thread/INFO] [STDOUT]: [atomicstryker.ruins.common.ChunkLoggerData:func_76184_a:24]: Ruins chunks logged: 307
+[00:20:17] [Server thread/INFO] [dsurround]: Creating NETHER weather generator for dimension [the_nether]
+[00:20:18] [Server thread/INFO] [globalgamerules]: Saving gamerules of dimension -1 (world) to config
+[00:20:19] [Server thread/INFO] [FML]: Unloading dimension -1
+[00:20:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: kaneki46531 was slain by Assimilated Human
+[00:20:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [kaneki46531: Set own game mode to Creative Mode]
+[00:22:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [kaneki46531: Set own game mode to Survival Mode]
+[00:24:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [kaneki46531: Set own game mode to Creative Mode]
+[00:24:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [kaneki46531: Set own game mode to Survival Mode]
