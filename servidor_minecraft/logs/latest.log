@@ -86,3 +86,26 @@
 [00:22:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [kaneki46531: Set own game mode to Survival Mode]
 [00:24:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [kaneki46531: Set own game mode to Creative Mode]
 [00:24:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [kaneki46531: Set own game mode to Survival Mode]
+[00:31:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [kaneki46531: Set own game mode to Creative Mode]
+[00:31:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [kaneki46531: Set own game mode to Survival Mode]
+[00:31:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: kaneki46531 has made the advancement [A Cut Above the Rest]
+[00:31:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [kaneki46531: Set own game mode to Creative Mode]
+[00:32:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [kaneki46531: Set own game mode to Survival Mode]
+[00:32:53] [Server thread/INFO] [Scaling Health]: Blight Incomplete Form has died
+[00:34:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [kaneki46531: Set own game mode to Creative Mode]
+[00:34:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [kaneki46531: Set own game mode to Survival Mode]
+[00:34:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [kaneki46531: Set own game mode to Creative Mode]
+[00:34:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [kaneki46531: Set own game mode to Survival Mode]
+[00:37:20] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: kaneki46531 lost connection: Disconnected
+[00:37:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: kaneki46531 left the game
+[00:37:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Stopping the server
+[00:37:41] [Server thread/INFO] [AUW]: Stopping DS...
+[00:37:41] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[00:37:41] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[00:37:41] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[00:37:41] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/overworld
+[00:37:41] [Server thread/INFO] [globalgamerules]: Saving gamerules of dimension 0 (world) to config
+[00:37:41] [Server thread/INFO] [FML]: Unloading dimension 0
+[00:37:41] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[00:37:41] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[00:37:41] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds

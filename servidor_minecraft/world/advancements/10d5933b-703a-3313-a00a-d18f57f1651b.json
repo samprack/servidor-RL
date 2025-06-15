@@ -826,6 +826,12 @@
     },
     "done": true
   },
+  "spartanweaponry:greatsword": {
+    "criteria": {
+      "craft": "2025-06-15 00:31:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/green_stained_hardened_clay": {
     "criteria": {
       "has_the_recipe": "2025-06-13 19:19:30 +0000"
