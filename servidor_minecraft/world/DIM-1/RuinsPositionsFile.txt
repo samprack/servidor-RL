@@ -9,8 +9,8 @@
 # It should also prevent Ruins re-spawning under any circumstances. Areas registered in here block any overlapping new Ruins.
 # Empty lines and those prefixed by '#' are ignored by the parser. Don't save notes in here, file gets wiped upon flushing.
 #
--182 126 121 -175 129 126 Melonfield.tml
 -182 44 -25 -180 48 -22 SkeletonHeadStatue.tml
+-182 126 121 -175 129 126 Melonfield.tml
 -160 126 -78 -150 135 -66 StoneHouseMruined.tml
 -77 126 46 -70 130 53 TinyFarmField.tml
 7 128 -72 20 137 -59 VolcanicVent.tml

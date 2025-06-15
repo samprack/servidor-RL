@@ -1000,6 +1000,12 @@
     },
     "done": true
   },
+  "spartanweaponry:crossbow": {
+    "criteria": {
+      "craft": "2025-06-15 00:17:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/light_gray_bed": {
     "criteria": {
       "has_the_recipe": "2025-06-13 19:19:30 +0000"
@@ -1213,6 +1219,12 @@
   "minecraft:recipes/misc/bone_meal_from_bone": {
     "criteria": {
       "has_the_recipe": "2025-06-13 19:19:30 +0000"
+    },
+    "done": true
+  },
+  "reskillable:main/attack_5": {
+    "criteria": {
+      "level_up": "2025-06-15 00:08:34 +0000"
     },
     "done": true
   },
@@ -2016,7 +2028,8 @@
     "criteria": {
       "porkchop": "2025-06-13 20:38:36 +0000",
       "rotten_flesh": "2025-06-13 23:55:40 +0000",
-      "cooked_chicken": "2025-06-14 00:37:25 +0000"
+      "cooked_chicken": "2025-06-14 00:37:25 +0000",
+      "mushroom_stew": "2025-06-14 23:55:03 +0000"
     },
     "done": false
   },
@@ -2185,6 +2198,12 @@
   "minecraft:recipes/decorations/orange_bed_from_white_bed": {
     "criteria": {
       "has_the_recipe": "2025-06-13 19:19:30 +0000"
+    },
+    "done": true
+  },
+  "craftablechainmail:craft_iron_nugget": {
+    "criteria": {
+      "iron_nugget": "2025-06-15 00:07:41 +0000"
     },
     "done": true
   },
